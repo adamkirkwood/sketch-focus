@@ -67,20 +67,27 @@ Open `[Settings]`, choose the `[Data]` tab and click 'Export data' to create a J
 ### How do I use Sketch Focus?
 Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
 
-### How do I use Sketch Focus?
-Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+### Can I set my own custom shortcut?
+If you don't like the default `[CMD SHIFT F] shortcut, feel free to add your own by going to System Preferences > Keyboard > Shortcuts. You can find more detailed instructions here: [https://support.apple.com/kb/PH18418?locale=en_US](https://support.apple.com/kb/PH18418?locale=en_US).
 
-### How do I use Sketch Focus?
-Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+### What versions of Sketch and OSX does Sketch Focus support?
+Sketch Focus is compatible with Sketch 3.8+ and OSX 10.11+.
 
-### How do I use Sketch Focus?
-Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+### How do I get the latest version?
++ If you already have Sketch Focus installed, go to Sketch and open Sketch Focus. If there is an update available, the update page will appear - just click "Update now" and it will automatically update to the latest version.
++ If you don't already have Sketch Focus installed, then simply go to [https://sketchfocus.com/](https://sketchfocus.com/) and click the "Download now" button in the Download section to get the latest version.
 
-### How do I use Sketch Focus?
-Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+### How do I uninstall Sketch Focus?
+1. Go to Sketch > Plugins > Manage Plugins.
+2. Right-click Sketch Focus.
+3. Choose Uninstall "Sketch Focus".
+4. Restart Sketch.
+5. Go to System Preferences > Users & Groups > Login Items.
+6. Remove SketchFocus from the list.
 
-### How do I use Sketch Focus?
-Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+### It doesn't open :(
+1. Go to System Preferences > Security & Privacy.
+2. Under "Allow apps downloaded from:" choose "Anywhere". Sorry for the inconvenience.
 
-### How do I use Sketch Focus?
-Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+# About
+This plugin is created by two brothers. Follow Sketch Focus on Twitter [@sketchfocus](https://twitter.com/sketchfocus) to get the latest updates. You can contact us at [hello@sketchfocus.com](mailto:hello@sketchfocus.com?subject=Hello), or get help by emailing [support@sketchfocus.com](mailto:support@sketchfocus.com?subject=Please help me with...).
