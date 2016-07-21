@@ -92,4 +92,4 @@ Sketch Focus is compatible with Sketch 3.8+ and OSX 10.11+.
 6. Remove SketchFocus from the list.
 
 # About
-This plugin was created by two brothers. Follow Sketch Focus on Twitter [@sketchfocus](https://twitter.com/sketchfocus) to get the latest updates. You can contact us at [hello@sketchfocus.com](mailto:hello@sketchfocus.com?subject=Hello), or get help by emailing [support@sketchfocus.com](mailto:support@sketchfocus.com?subject=Please help me with...).
+We're two brothers passionate about awesome plugins and boosting productivity. Follow Sketch Focus on Twitter [@sketchfocus](https://twitter.com/sketchfocus) to get the latest updates. You can contact us at [hello@sketchfocus.com](mailto:hello@sketchfocus.com?subject=Hello), or get help by emailing [support@sketchfocus.com](mailto:support@sketchfocus.com?subject=Please help me with...).
