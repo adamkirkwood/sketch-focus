@@ -84,12 +84,13 @@ Sketch Focus is compatible with Sketch 3.8+ and OSX 10.11+.
 + If you don't already have Sketch Focus installed, then simply go to [https://sketchfocus.com/](https://sketchfocus.com/) and click the "Download now" button in the Download section to get the latest version.
 
 ### How do I uninstall Sketch Focus?
-1. Go to Sketch > Plugins > Manage Plugins.
-2. Right-click Sketch Focus.
-3. Choose Uninstall "Sketch Focus".
-4. Restart Sketch.
-5. Go to System Preferences > Users & Groups > Login Items.
-6. Remove SketchFocus from the list.
+1. Open Sketch
+2. Go to Plugins > Manage Plugins.
+3. Right-click Sketch Focus.
+4. Choose Uninstall "Sketch Focus".
+5. Restart Sketch.
+6. Go to System Preferences > Users & Groups > Login Items.
+7. Remove SketchFocus from the list.
 
 # About
 We're two brothers passionate about awesome plugins and boosting productivity. Follow Sketch Focus on Twitter [@sketchfocus](https://twitter.com/sketchfocus) to get the latest updates. You can contact us at [hello@sketchfocus.com](mailto:hello@sketchfocus.com?subject=Hello), or get help by emailing [support@sketchfocus.com](mailto:support@sketchfocus.com?subject=Please help me with...).
