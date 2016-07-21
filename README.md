@@ -1,7 +1,6 @@
 # Sketch Focus
 A new plugin for Sketch that boosts your productivity by keeping you on-task.
 
-
 # What is Sketch Focus?
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0sjOVN07y14
@@ -58,3 +57,24 @@ Switch to a professional, dark interface theme by clicking the `[Settings]` icon
 Open `[Settings]`, choose the `[Data]` tab and click 'Export data' to create a JSON file containing all of your notes and tasks. You can later import it back into any document you like. This is a must when you have mission critical information in your items.
 
 ![export-import-data.gif](http://i.giphy.com/oKLNQQ6OIeSU8.gif "Import and export data GIF")
+
+# Free vs `[PRO]`
+
+|  | Free | [PRO] |
+|:---|:---:|:---:|
+| Add notes and tasks (items) to your document | Yes | Yes |
+| Link layers to items | Yes | Yes |
+| Mark items as important | Yes | Yes |
+| Search items | Yes | Yes |
+| Sort items by date or alphabetically | Yes | Yes |
+| Delete all items from your document | Yes | Yes |
+| Doesn't mess with your artboard and layer data | Yes | Yes |
+| **Filter items by currently visible or selected layers** | **No** | **Yes** |
+| **Jump directly to linked layers** | **No** | **Yes** |
+| **Customize UI color** | **No** | **Yes** |
+| **Dark UI theme** | **No** | **Yes** |
+| **Import and export data** | **No** | **Yes** |
+| **Number of items per document** | **Max 15** | **Unlimited** |
+| **Support further development** | **No** | **Yes** |
+| **Priority support** | **No** | **Yes** |
+| _More features coming soon_ | **No** | **Yes** |
