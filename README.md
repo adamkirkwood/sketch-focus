@@ -74,7 +74,7 @@ Sketch Focus is designed as a separate floating window and you can open and clos
 2. Under "Allow apps downloaded from:" choose "Anywhere". Sorry for the inconvenience.
 
 ### Can I set my own custom shortcut?
-If you don't like the default `[CMD SHIFT F] shortcut, feel free to add your own by going to System Preferences > Keyboard > Shortcuts. You can find more detailed instructions here: [https://support.apple.com/kb/PH18418?locale=en_US](https://support.apple.com/kb/PH18418?locale=en_US).
+If you don't like the default `[CMD SHIFT F]` shortcut, feel free to add your own by going to System Preferences > Keyboard > Shortcuts. You can find more detailed instructions here: [https://support.apple.com/kb/PH18418?locale=en_US](https://support.apple.com/kb/PH18418?locale=en_US).
 
 ### What versions of Sketch and OSX does Sketch Focus support?
 Sketch Focus is compatible with Sketch 3.8+ and OSX 10.11+.
