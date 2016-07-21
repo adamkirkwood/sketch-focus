@@ -61,3 +61,26 @@ Switch to a professional, dark interface theme by clicking the `[Settings]` icon
 Open `[Settings]`, choose the `[Data]` tab and click 'Export data' to create a JSON file containing all of your notes and tasks. You can later import it back into any document you like. This is a must when you have mission critical information in your items.
 
 ![export-import-data.gif](http://i.giphy.com/oKLNQQ6OIeSU8.gif "Import and export data GIF")
+
+# Frequently Asked Questions
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
+
+### How do I use Sketch Focus?
+Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
