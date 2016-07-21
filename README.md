@@ -8,7 +8,7 @@ Get Sketch Focus now: [https://sketchfocus.com/](https://sketchfocus.com/)
 # What is Sketch Focus?
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cwA1x1Ya-Zs
-" target="_blank"><img src="https://github.com/lukasondrej/sketch-focus/raw/master/images/thumbnail.png" 
+" target="_blank"><img src="https://github.com/lukasondrej/sketch-focus/raw/master/images/video-thumbnail.png" 
 alt="Sketch Focus Video" width="720" height="405" border="0" /></a>
 
 # Features
