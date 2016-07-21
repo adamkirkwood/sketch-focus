@@ -78,3 +78,18 @@ Open `[Settings]`, choose the `[Data]` tab and click 'Export data' to create a J
 | **Support further development** | **No** | **Yes** |
 | **Priority support** | **No** | **Yes** |
 | _More features coming soon_ | **No** | **Yes** |
+
+# Download
+
++ Start using Sketch Focus for free now and upgrade later: [https://sketchfocus.com/download](https://sketchfocus.com/download)
++ Upgrade to `[PRO]` and boost your productivity today, for only $9.99: [https://sketchfocus.com/get-pro](https://sketchfocus.com/get-pro). You can use your licence on up to 2 computers.
+
+Help us spread the word about Sketch Focus and get 25% off `[PRO]`. Just email us ([discount@sketchfocus.com](mailto:discount@sketchfocus.com?subject=Posted about Sketch Focus&body=Here is the link to the post: [URL])) the link to your post and we'll get back to you within 24 hours. Thank you.
+
++Share on Twitter: [Tweet](https://twitter.com/intent/tweet?via=sketchfocus&text=Sketch%20Focus%20is%20a%20new%20Sketch%20plugin%20that%20boosts%20your%20productivity.%20Get%20it%20now%20at%20https%3A//sketchfocus.com&)
+
++Share on Facebook: [Share](http://www.facebook.com/share.php?u=https://sketchfocus.com)
+
++Share on Google+: [Share](https://plus.google.com/share?url=https://sketchfocus.com)
+
++Share on Pinterest: [Pin it](http://pinterest.com/pin/create/bookmarklet/?media=https://sketchfocus.com/web/assets/img/ogimg.png&url=https://sketchfocus.com&is_video=false&description=Sketch%20Focus%20is%20a%20new%20Sketch%20plugin%20that%20boosts%20your%20productivity.%20Get%20it%20now%20at%20https%3A//sketchfocus.com)
