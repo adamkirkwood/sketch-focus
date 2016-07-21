@@ -69,7 +69,7 @@ Open `[Settings]`, choose the `[Data]` tab and click 'Export data' to create a J
 ### How do I use Sketch Focus?
 Sketch Focus is designed as a separate floating window and you can open and close it anytime and continue exactly where you left off. The fastest way to open Sketch Focus is by hitting `[CMD SHIFT F]` on your keyboard. You can also find it under the 'Plugins' menu. Then add any items, etc. Hit `[ESC]` or click the close button to close the window.
 
-### It doesn't open :(
+### Sketch Focus doesn't open
 1. Go to System Preferences > Security & Privacy
 2. Under "Allow apps downloaded from:" choose "Anywhere"
 
