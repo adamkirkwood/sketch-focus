@@ -6,7 +6,7 @@
     "homepage": "https://sketchfocus.com",
     "identifier": "com.sketchfocus.plugin",
     "compatibleVersion": "3.8",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "disableCocoaScriptPreprocessor" : true,
     "commands": [{
         "name": "Show Sketch Focus",
