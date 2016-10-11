@@ -1,24 +1,24 @@
 {
     "name": "Sketch Focus",
-    "description": "A new plugin for Sketch that boosts your productivity by keeping you on-task.",
-    "author" : "Sketch Focus",
-    "authorEmail" : "hello@sketchfocus.com",
+    "description": "A plugin for Sketch that boosts your productivity by keeping you on-task.",
+    "author" : "Code Arrows",
+    "authorEmail" : "support@sketchfocus.com",
     "homepage": "https://sketchfocus.com",
-    "identifier": "com.sketchfocus.plugin",
+    "identifier": "com.codearrows.sketch.SketchFocus",
     "compatibleVersion": "3.8",
-    "version": "1.0.6",
+    "version": "1.1.0",
     "disableCocoaScriptPreprocessor" : true,
     "commands": [{
         "name": "Sketch Focus",
-        "identifier": "openWindow",
+        "identifier": "toggleWindow",
         "script" : "plugin.js",
-        "handler": "showWindowHandler",
+        "handler": "toggleWindowHandler",
         "shortcut" : "shift+cmd+f"
     }],
     "menu": {
         "isRoot": true,
         "items": [
-            "openWindow"
+            "toggleWindow"
         ]
     }
 }

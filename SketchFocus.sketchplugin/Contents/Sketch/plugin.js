@@ -1,4 +1,4 @@
-function showWindowHandler(context) {
+function toggleWindowHandler(context) {
     if(!loadFramework(context)) return;
     SketchFocus.showWindow();
 }
