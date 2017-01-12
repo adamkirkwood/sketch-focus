@@ -1,3 +1,8 @@
+function loadWindowHandler(context) {
+    if(!loadFramework(context)) return;
+    SketchFocus.loadWindow();
+}
+
 function toggleWindowHandler(context) {
     if(!loadFramework(context)) return;
     SketchFocus.showWindow();
