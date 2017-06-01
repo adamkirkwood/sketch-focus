@@ -1,4 +1,6 @@
 # Sketch Focus
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.codearrows.sketch.SketchFocus/version.svg)](https://api.sketchpacks.com/v1/plugins/com.codearrows.sketch.SketchFocus/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.codearrows.sketch.SketchFocus/compatibility.svg)](https://sketchpacks.com/codearrows/sketch-focus)
+
 A new plugin for Sketch that boosts your productivity by keeping you on-task, brought to you by Code Arrows.
 
 # Download
