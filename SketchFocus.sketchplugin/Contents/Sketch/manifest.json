@@ -5,6 +5,7 @@
     "authorEmail" : "support@sketchfocus.com",
     "homepage": "https://sketchfocus.com",
     "identifier": "com.codearrows.sketch.SketchFocus",
+    "appcast": "https://api.sketchpacks.com/v1/plugins/com.codearrows.sketch.SketchFocus/appcast",
     "compatibleVersion": "3.8",
     "version": "1.2.0",
     "disableCocoaScriptPreprocessor" : true,
